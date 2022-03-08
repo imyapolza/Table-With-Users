@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACK,AAAD,WAAO,AAAC,CACJ,KAAK,CAAE,IAAI,CACX,MAAM,CAAE,IAAI,CACZ,MAAM,CAAE,CAAC,CACT,MAAM,CAAE,OAAO,CACf,aAAa,CAAE,IAAI,CACnB,UAAU,CAAE,IAAI,CAAG,AAEtB,AAAD,aAAS,AAAC,CACN,gBAAgB,CAAE,OAAO,CAAG,AAE/B,AAAD,cAAU,AAAC,CACP,QAAQ,CAAE,QAAQ,CAClB,GAAG,CAAE,KAAK,CACV,IAAI,CAAE,IAAI,CAAG",
+    "sources": [
+        "../Pagination.sass"
+    ],
+    "names": [],
+    "file": "Pagination.min.css"
+}
